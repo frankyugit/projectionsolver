@@ -1,0 +1,39 @@
+﻿  main.cpp
+d:\eigen3\include\eigen3\eigen\src\core\arch\cuda\half.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(171): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(236): warning C4101: 'V': unreferenced local variable
+c:\users\frank\documents\visual studio 2015\projects\projectionsolver\projectionsolver\main.cpp(235): warning C4101: 'U': unreferenced local variable
+  projectionsolver.vcxproj -> C:\Users\frank\Documents\Visual Studio 2015\Projects\projectionsolver\x64\Debug\projectionsolver.exe
+  projectionsolver.vcxproj -> C:\Users\frank\Documents\Visual Studio 2015\Projects\projectionsolver\x64\Debug\projectionsolver.pdb (Partial PDB)
